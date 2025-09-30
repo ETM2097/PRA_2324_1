@@ -1,0 +1,17 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Executables
+shapes
+*.exe
+*.out
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
